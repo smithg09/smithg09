@@ -6,3 +6,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smith-gajjar-5a27716b/)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/smithg09)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/smith.gajjar09/)
+![](https://komarev.com/ghpvc/?username=smithg09&style=flat-square)
