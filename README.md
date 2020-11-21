@@ -14,7 +14,3 @@
 [![Hashnode.com](https://img.shields.io/badge/Hashnode-blue?logo=Hashnode&style=for-the-badge)](https://blogs.smithgajjar.me/)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/smithg09)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/smith.gajjar09/)
-
-
-<!--- [![Smith's github stats](https://github-readme-stats.vercel.app/api?username=smithg09&count_private=true&show_icons=true)](https://github.com/smithg09/) --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithg09&layout=compact&count_private=true&hide=jupyter%20notebook,css,php,hack&langs_count=10)](https://github.com/smithg09/)
