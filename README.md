@@ -1,5 +1,4 @@
 ## Hi there 👋,
-[![Repos Badge](https://badges.pufler.dev/repos/smithg09)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/smithg09)](https://badges.pufler.dev)
 
 ###### Full Stack Developer 🚀 and Designer 📟 with a penchant for minimalistic design and Web Technologies 🕸️. I am passionate about enhancing user experience and maximizing user interface. I have hands-on experience in building Web Applications and API's, JavaScript frameworks, including performance, scalable, efficient and maintainable products 👨‍💻.
  
