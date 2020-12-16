@@ -3,7 +3,7 @@
 ###### Full Stack Developer 🚀 and Designer 📟 with a penchant for minimalistic design and Web Technologies 🕸️. I am passionate about enhancing user experience and maximizing user interface. I have hands-on experience in building Web Applications and API's, JavaScript frameworks, including performance, scalable, efficient and maintainable products 👨‍💻.
  
 
-* Contributing to [@DevUnderflow](https://github.com/DevUnderflow). An Open Source Organisation.
+* Contributing to [@DevUnderflow](https://github.com/DevUnderflow). An Open Source Organization.
 
 * Non-Tech time goes in to  Cooking 👨‍🍳, Travel 🌏 ....
  
