@@ -1,10 +1,7 @@
 ## Hi there 👋,
 
-##### Full Stack Developer 🚀 and Solutions Architect 📟 with a penchant for minimalistic design and optimizations 🕸️. I have hands-on experience in developing web applications using several javascript frameworks, managing & optimizing backend infrastructure including scalability, performance and efficient systems 👨‍💻.
+##### Senior Full Stack Developer 🚀 and Solutions Architect 📟 with a penchant for minimalistic design and optimizations 🕸️. I have hands-on experience in developing applications using several javascript frameworks, managing and optimizing backend infrastructure including deployment, scalability, performance and efficiency 👨‍💻.
  
-
-* Contributing to [@DevUnderflow](https://github.com/DevUnderflow). An Open Source Organization.
-
 * Non-Tech time goes in to  Cooking 👨‍🍳, Travel 🌏 ....
  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%2317b0cc?logo=Microsoft-edge&style=for-the-badge)](https://smithgajjar.dev/)
