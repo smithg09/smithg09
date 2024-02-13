@@ -1,8 +1,8 @@
 ## Hi there 👋,
 
-##### Senior Full Stack Developer 🚀 and Solutions Architect 📟 with a penchant for minimalistic design and optimizations 🕸️. I have hands-on experience in developing applications using several javascript frameworks, managing and optimizing backend infrastructure including deployment, scalability, performance and efficiency 👨‍💻.
+##### Senior Software Developer 🚀 [@Codecademy](https://www.codecademy.com/profiles/smithg09) and Solutions Architect 📟 with 3 years of experience working in early stage startups, building applications and open source projects using several languages and JavaScript frameworks 🕸️, managing and optimizing Frontend & Backend infrastructure including deployment, scalability, performance and 3rd party service integrations👨‍💻
  
-* Non-Tech time goes in to  Cooking 👨‍🍳, Travel 🌏 ....
+* Non-Tech time goes in to Cooking 👨‍🍳, Traveling 🌏 ....
  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%2317b0cc?logo=Microsoft-edge&style=for-the-badge)](https://smithgajjar.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smith-gajjar-5a27716b/)
